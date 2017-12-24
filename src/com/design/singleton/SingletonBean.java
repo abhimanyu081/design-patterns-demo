@@ -14,6 +14,7 @@ public class SingletonBean implements Serializable, Cloneable{
 			throw new RuntimeException("Not allowed to create instance from here ");
 		}
 		
+		
 	}
 	
 	
